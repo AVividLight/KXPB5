@@ -1,0 +1,28 @@
+{
+  "name": "kxpb5",
+  "displayName": "KXPB5",
+  "description": "Personal theme",
+  "version": "1.0.0",
+  "publisher": "Michael Bethke",
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "KXPB5 Dark",
+        "uiTheme": "vs-dark",
+        "path": "themes/themer-dark-color-theme.json"
+      },
+      {
+        "label": "KXPB5 Light",
+        "uiTheme": "vs",
+        "path": "themes/themer-light-color-theme.json"
+      }
+    ]
+  }
+}
