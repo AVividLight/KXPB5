@@ -1,6 +1,6 @@
 # KXPB5
 
-A VSCode Theme
+A low-contrast VSCode theme for focused work
 
 ![icon](./kxpb5/icon.svg)
 
