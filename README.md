@@ -1,4 +1,4 @@
-# KXPB5
+# KXPB5-Theme
 
 A low-contrast VSCode theme for focused work
 
